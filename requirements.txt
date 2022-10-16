@@ -1,0 +1,4 @@
+gpiozero
+hidapi
+PyGLM
+joycon-python
